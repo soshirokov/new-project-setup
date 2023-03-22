@@ -1,4 +1,4 @@
-## Чистый проект на ReactJS + TS с настройками
+## Чистый проект на ReactJS + TS
 
 - **🎁 Ready Code Style Guide**
 - **📜 Support SASS**
